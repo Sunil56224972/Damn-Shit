@@ -1,11 +1,11 @@
 {
-  "name": "Hack Western",
-  "short_name": "Hack Western",
-  "description": "Canada's premier student-run hackathon at Western University in London, Ontario.",
+  "name": "Sunil | Wretched Coder",
+  "short_name": "Sunil",
+  "description": "Portfolio of Sunil (@Sunil56224972) — T-Shaped Security Analyst, Hardware Hacker, and 3D Web Builder.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#7C3AED",
+  "background_color": "#0b151c",
+  "theme_color": "#008eca",
   "icons": [
     {
       "src": "/favicon.ico",
