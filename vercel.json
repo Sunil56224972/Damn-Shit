@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo 'Skipping install'",
+  "buildCommand": "echo 'Static site ready'",
+  "outputDirectory": "site",
+  "redirects": [
+    {
+      "source": "/apply",
+      "destination": "https://www.hackwestern.com/apply",
+      "permanent": false
+    }
+  ]
+}
